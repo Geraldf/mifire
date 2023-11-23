@@ -1,0 +1,6 @@
+colorama==0.4.6
+desfire==0.2
+kaitaistruct==0.10
+logutils==0.3.5
+pyscard==2.0.7
+rainbow-logging-handler==2.2.2
